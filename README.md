@@ -1,4 +1,4 @@
-# discord-wap-fxos
+# discord-fxos
 A simple Firefox OS app for @gtrxAC's [Discord WAP client](https://github.com/gtrxAC/discord-wap).
 
 **NOTE:** You will need to have a Firefox-based browser which has WebIDE (for example, Firefox 45.9.0 ESR or lower, and Pale Moon 28.6.1 or lower)
