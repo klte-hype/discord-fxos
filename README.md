@@ -5,12 +5,12 @@ A simple Firefox OS app for @gtrxAC's [Discord WAP client](https://github.com/gt
 
 ## Initial setup
 
-1. Download the [latest discord-wap-fxos release](https://github.com/klte-hype/discord-wap-fxos/releases/latest/) on a PC.
-2. Unzip the ``discord-wap-fxos.zip`` file.
+1. Download the [latest discord-fxos release](https://github.com/klte-hype/discord-fxos/releases/latest/) on a PC.
+2. Unzip the ``discord-fxos.zip`` file.
 3. Follow [these instructions](https://ffapps.danielherr.software/sideloading/) to install it on your Firefox OS device.
 
 ### If you are hosting your own Discord WAP server, do these steps before copying the file to your KaiOS device:
-1. Unzip the ``discord-wap-fxos.zip`` file.
+1. Unzip the ``discord-fxos.zip`` file.
 2. Open the manifest.webapp file.
 3. Change the URLs inside of ``"csp": "default-src 'self'; script-src 'self'; connect-src 'self' http://wap.gtrxac.fi; frame-src http://wap.gtrxac.fi;",`` to the URL of your server.
 4. Save the file.
