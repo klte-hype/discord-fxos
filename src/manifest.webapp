@@ -1,11 +1,10 @@
 {
-  "version": "0.0.1",
-  "name": "Discord WAP",
-  "description": "Discord WAP for Firefox OS",
-  "type": "privileged",
+  "version": "0.1.0",
+  "name": "Discord",
+  "description": "A simple Firefox OS app for @gtrxAC's Discord WAP client",
+  "type": "web",
   "fullscreen": true,
   "launch_path": "/index.html",
-  "csp": "default-src 'self'; script-src 'self'; connect-src 'self' http://wap.gtrxac.fi; frame-src http://wap.gtrxac.fi;",
   "developer": {
     "name": "klte_hype",
 	"url":"https://github.com/klte-hype"
@@ -14,7 +13,7 @@
   "display":"browser",
   "locales": {
     "en-US": {
-      "name":"Discord WAP"
+      "name":"Discord"
 	}
   },
   "icons": {

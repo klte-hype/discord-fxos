@@ -9,7 +9,7 @@ A simple Firefox OS app for @gtrxAC's [Discord WAP client](https://github.com/gt
 2. Unzip the ``discord-fxos.zip`` file.
 3. Follow [these instructions](https://ffapps.danielherr.software/sideloading/) to install it on your Firefox OS device.
 
-### If you are hosting your own Discord WAP server, do these steps before copying the file to your device:
+### v0.0.1 only: If you are hosting your own Discord WAP server or using another one, do these steps before copying the file to your device:
 1. Unzip the ``discord-fxos.zip`` file.
 2. Open the manifest.webapp file.
 3. Change the URLs inside of ``"csp": "default-src 'self'; script-src 'self'; connect-src 'self' http://wap.gtrxac.fi; frame-src http://wap.gtrxac.fi;",`` to the URL of your server.
